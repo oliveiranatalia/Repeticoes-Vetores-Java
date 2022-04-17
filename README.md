@@ -1,2 +1,2 @@
-## Módulo - Vetores em Java
-*exercícios simples relacionados ao módulo de vetores em Java.*
+## Módulo - Estrutura de Repetição e Vetores em Java
+*exercícios simples relacionados à aula 08 e 09 sobre estruturas de repetição e vetores.*
